@@ -5,19 +5,23 @@
 
 function divide(x,y) {
 	//Write your code below this line
-
+	var dividen = x/y;
+	return dividen;
 }
 
 function multiply(x,y) {
-
+var product = x*y;
+return product;
 }
 
 function subtract(x,y) {
-
+var result = x-y;
+return result;
 }
 
 function add(x,y) {
-
+var sum = x+y;
+return sum;
 }
 
 function power(x,y) {
