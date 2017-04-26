@@ -25,17 +25,23 @@ return sum;
 }
 
 function power(x,y) {
-
+var double = x*x;
+return double;
 }
 
 function square_root(x) {
-
+var less=x+y;
+return less;
 }
 
 function logBase10(x) {
+var log10(x);
+return log10;
 
 }
 
 function generateRandomNumber() {
+    var ran x;
+    return ran;
 
 }
